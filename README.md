@@ -1,9 +1,11 @@
-[![MasterHead](https://github.com/MTank76/MTank76/assets/90818234/9c2606a8-f776-4482-80f8-3c1524c5bf18)
+![MasterHead](https://github.com/MTank76/MTank76/assets/90818234/9c2606a8-f776-4482-80f8-3c1524c5bf18)
 
 <h1 align="center">Hi 👋, I'm Ashish Yadav</h1>
+
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)">
+
 <h3 align="center">Final-year engineering whiz with an insatiable hunger for AI/ML, frontend finesse, and a dash of data sorcery! From decoding algorithms to painting pixels, I'm the curious mind juggling between code, creativity, and the quest for data-driven marvels! 
 </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
