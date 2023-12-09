@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashish Yadav</h1>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/MTank76/MTank76/assets/90818234/06650248-c169-4ad0-b84e-335d5a0a951a
-">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif">
 
 <h3 align="center">Final-year engineering whiz with an insatiable hunger for AI/ML, frontend finesse, and a dash of data sorcery! From decoding algorithms to painting pixels, I'm the curious mind juggling between code, creativity, and the quest for data-driven marvels! 
 </h3>
