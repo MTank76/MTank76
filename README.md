@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashish Yadav</h1>
 
-<img align="right" alt="Coding" width="400" src="[(https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)](https://github.com/trinib/trinib)">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2bb027226280084c5edab512b6817ac84989a3f5113a088b77ee23a986bcb50f/68747470733a2f2f632e74656e6f722e636f6d2f703749677753313756307341414141432f72746a2d7269636b2d616e642d6d6f7274792e676966">
 
 <h3 align="center">Final-year engineering whiz with an insatiable hunger for AI/ML, frontend finesse, and a dash of data sorcery! From decoding algorithms to painting pixels, I'm the curious mind juggling between code, creativity, and the quest for data-driven marvels! 
 </h3>
