@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashish Yadav</h1>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)">
+<img align="right" alt="Coding" width="400" src="(https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)">
 
 <h3 align="center">Final-year engineering whiz with an insatiable hunger for AI/ML, frontend finesse, and a dash of data sorcery! From decoding algorithms to painting pixels, I'm the curious mind juggling between code, creativity, and the quest for data-driven marvels! 
 </h3>
