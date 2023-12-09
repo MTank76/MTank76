@@ -1,4 +1,4 @@
-[![MasterHead]([github-header-image (1)](https://github.com/MTank76/MTank76/assets/90818234/9c2606a8-f776-4482-80f8-3c1524c5bf18))
+[![MasterHead](https://github.com/MTank76/MTank76/assets/90818234/9c2606a8-f776-4482-80f8-3c1524c5bf18)
 
 <h1 align="center">Hi 👋, I'm Ashish Yadav</h1>
 <h3 align="center">Final-year engineering whiz with an insatiable hunger for AI/ML, frontend finesse, and a dash of data sorcery! From decoding algorithms to painting pixels, I'm the curious mind juggling between code, creativity, and the quest for data-driven marvels! 
