@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/MTank76/MTank76/assets/90818234/9c2606a8-f776-4482-80f8-3c1524c5bf18)
+![MasterHead](https://github.com/user-attachments/assets/a40ca251-714a-46dc-8fa0-d4eac1e8d2fb)
 
 <h1 align="center">Hi 👋, I'm Ashish Yadav</h1>
 
