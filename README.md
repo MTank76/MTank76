@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966">
 
-<h3 align="center">Final-year engineering whiz with an insatiable hunger for AI/ML, frontend finesse, and a dash of data sorcery! From decoding algorithms to painting pixels, I'm the curious mind juggling between code, creativity, and the quest for data-driven marvels! 
+<h3 align="center">A results-driven AI-ML Engineering graduate, I am eager to embark on a rewarding career in data science. With a solid foundation in AI-ML Engineering and a passion for problem-solving, I am equipped with the technical skills and analytical mindset necessary to excel in this dynamic industry. I am dedicated to leveraging my skills to stay abreast on emerging technologies and contribute effectively to innovative tech projects and solutions for organizational success.
 </h3>
 
 <p align="left">
