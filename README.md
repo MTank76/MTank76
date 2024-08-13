@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/user-attachments/assets/a40ca251-714a-46dc-8fa0-d4eac1e8d2fb)
+![MasterHead](https://github.com/user-attachments/assets/55d3839c-9d13-465a-8cca-4a7d6a029c0f)
 
 <h1 align="center">Hi 👋, I'm Ashish Yadav</h1>
 
